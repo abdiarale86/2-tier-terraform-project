@@ -1,6 +1,6 @@
 # 2-tier-terraform-project
 
-The project was laid out in the following segments.
+The project was laid out in the following segments:
 
 Create VPC
 
